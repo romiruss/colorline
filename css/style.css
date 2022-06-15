@@ -1,0 +1,269 @@
+header {
+  font-size: 16px;
+  font-family: 'Roboto Condensed',
+  sans-serif;
+  font-weight: 400;
+  text-align: center;
+  color: #fff;
+}
+p {
+  margin: 5px;
+  font-size: 20px;
+}
+
+.container {
+  width: 100%;
+}
+
+.nav {
+  color: #000;
+  font-size: 32px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  
+}
+
+.one {
+  background: #ff50bf;
+}
+
+.one1 {
+  background: #b06ab3;
+}
+.one1 {
+  background: #ff99cc;
+}
+.one2 {
+  background: #1cc965;
+}
+.one3 {
+  background: #e60086;
+}
+.one4 {
+  background: #2692b7;
+}
+.one5 {
+  background: #EE81C0;
+}
+.one6 {
+  background: #bcfbc1;
+}
+.one7 {
+  background: #f0e0ff;
+}
+.one8 {
+  background: #ffd3de;
+}
+.one9 {
+  background: #ffeba4;
+}
+.one10 {
+  background: #cbefff;
+}
+.one11 {
+  background: #62b4a8;
+}
+.one12 {
+  background: #23c3b2;
+}
+.one13 {
+  background: #e66572;
+}
+.one14 {
+  background: #fe9183;
+}
+.one15 {
+  background: #ffa282;
+}
+.one16 {
+  background: #f7dbd5;
+}
+.one17 {
+  background: #8676e1;
+}
+.one18 {
+  background: #9d64ed;
+}
+.one19 {
+  background: #957236;
+}
+.one20 {
+  background: #dfc98e;
+}
+.one21 {
+  background: #fae8b8;
+}
+.one22 {
+  background: #c3a476;
+}
+.one23 {
+  background: #ab7f4a;
+}
+.one24 {
+  background: #8b4513;
+}
+.one25 {
+  background: #918151;
+}
+.one26 {
+  background: #b9a16b;
+}
+.one27 {
+  background: #936b09;
+}
+.one28 {
+  background: #907838;
+}
+.one29 {
+  background: #e3b11c;
+}
+.one30 {
+  background: #ad9520;
+}
+.one31 {
+  background: #573a08;
+}
+.one32 {
+  background: #794b02;
+}
+.one33 {
+  background: #9e9e9e;
+}
+.one34 {
+  background: #ffe800;
+}
+.one35 {
+  background: #0088c1;
+}
+.one36 {
+  background: #7f28c4;
+}
+.one37 {
+  background: #EC008C;
+}
+.one38 {
+  background: #8B08F9;
+}
+.one39 {
+  background: #808080;
+}
+.one40 {
+  background: #61472c;
+}
+.one41 {
+  background: #00abfb;
+}
+.one42 {
+  background: #f2bd3e;
+}
+.one43 {
+  background: #da3039;
+}
+.one44 {
+  background: #292A30;
+}
+.one45 {
+  background: #907838;
+}
+.one46 {
+  background: linear-gradient(76.53deg,#f03a00 9.45%,#f7d901 90.13%);
+}
+.one47 {
+  background: linear-gradient(45deg,#6229aa,#2453c9);
+}
+.one48 {
+  background: linear-gradient(180deg, rgba(0,231,247,1) 0%, rgba(0,53,247,1) 100%);
+}
+.one49 {
+  background: linear-gradient(180deg, rgba(134,57,239,1) 0%, rgba(239,57,213,1) 100%);
+}
+.one50 {
+  background: linear-gradient(90deg,#fdb017 0,#18d4fd 100%);
+}
+.one51 {
+  background: linear-gradient(74.3deg,#ffa800,#ff7a00);
+}
+.one52 {
+  background: linear-gradient(90deg, #6b22c3 0, #db495f 100%);
+}
+.one53 {
+  background: linear-gradient(to right, #fe8c12 0%, #ff2846 41%, #fe8c12 100%);
+}
+.one54 {
+  background: linear-gradient(to right, #0042F4 0%, #03ADB4 41%, #296e71 100%);
+}
+.one55 {
+  background: linear-gradient(to right, #FF0000 0%, #FFA700 100%);
+}
+.one56 {
+  background: linear-gradient(90deg, #eb8e9a, #f28aef);
+}
+.one57 {
+  background: linear-gradient(90deg, #ffc7ef, #c3daff);
+}
+.one58 {
+  background: linear-gradient(360deg, #1C5D4E99 0%, #030C35 100%);
+}
+.one59 {
+  background: linear-gradient(180deg, #34A157B0 0%, #501A79 100%);
+}
+.one60 {
+  background: radial-gradient(at top right, rgba(0, 110, 219, 0.66) 0%, #29F25AB3 100%);
+}
+.one61 {
+  background: linear-gradient(45deg,#ffd521,#f50000,#b900b4);
+}
+.one62 {
+  background: linear-gradient(133deg,#f3e5c1,#e5bb7d);
+}
+.one63 {
+  background: linear-gradient(40deg,#ff6ec4,#7873f5);
+}
+.one64 {
+  background: linear-gradient(255.33deg,#ea535d -9.15%,#a942d3 62.98%);
+}
+.one65 {
+  background: linear-gradient(0deg,rgba(0,0,0,.2),rgba(0,0,0,.2)),linear-gradient(255.45deg,#ea535d -5.72%,#a942d3 71.71%);
+}
+.one66 {
+  background: linear-gradient(69.06deg,#b84fdd -26.76%,#4965f4 44.6%,#2efb74 132.54%);
+}
+.one67 {
+  background: linear-gradient(53.13deg,#dc4c11 10.71%,#feab2e);
+}
+.one68 {
+  background: linear-gradient(137deg,#87d761 15.51%,#09c5a0 51.65%,#2a7df9 85.09%);
+}
+.one69 {
+  background: linear-gradient(57.8deg,#6b42b4 9.75%,#943aab 95.44%);
+}
+.one71 {
+  background: linear-gradient(69.06deg,#b84fdd -26.76%,#4965f4 44.6%,#2efb74 132.54%);
+}
+.one72 {
+  background: linear-gradient(53.13deg,#dc4c11 10.71%,#feab2e);
+}
+.one73 {
+  background: linear-gradient(82deg,#f7e2ae,#f6e5b8 27%,#e4ca8d 47%,#d2b062 67%,#cca555);
+}
+.one74 {
+  background: linear-gradient(56deg,#0087c1 13%,#89d7bb);
+}
+.one75 {
+  background: linear-gradient(115.36deg, #E96BCC 0%, #045285 100%), #86665A;
+}
+.one76 {
+  background: linear-gradient(to right,#b06ab3 0%,#4568dc 51%,#b06ab3 100%);
+}
+.one77 {
+  background: linear-gradient( 5deg, rgb(255,249,157) 24%, rgb(106,184,237) 76%);
+}
+.one78 {
+  background: #fd0028;
+}
+.one79 {
+  background: #2ab200;
+}
+.one80 {
+  background: #04aa6d
+}
