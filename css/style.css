@@ -316,7 +316,7 @@ p {
   background: #feeede;
 }
 .one97 {
-  background: background-image: -webkit-linear-gradient(57.49deg,#ffd600 -33.93%,#ff7a00 8.51%,#ff0169 45.41%,#d300c5 82.31%,#6947ef 121.81%);
+  background: background-image: linear-gradient(57.49deg,#ffd600 -33.93%,#ff7a00 8.51%,#ff0169 45.41%,#d300c5 82.31%,#6947ef 121.81%);
 }
 .one98 {
   background: background-image: linear-gradient(90deg,#fdb017 0,#18d4fd 100%);
